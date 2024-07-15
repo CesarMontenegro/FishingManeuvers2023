@@ -2,7 +2,7 @@
 
 ## Fishing Maneuvers Models
 
-This repository contains prediction tools and models for analyzing fishing maneuvers based on AIS (Automatic Identification System) data.
+This repository contains prediction tools and models for analyzing fishing maneuvers based on AIS (Automatic Identification System) data. Please read the Method guide (.pptx) for more information on how to use these data files.
 
 ### File Organization:
 
